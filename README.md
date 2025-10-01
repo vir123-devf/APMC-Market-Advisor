@@ -25,12 +25,11 @@ APMC Market Advisor is a web application that leverages **AI and machine learnin
 
 ## 📂 Data Source
 
-This project uses **“Variety-wise Daily Market Prices Data of Commodity”** from the Indian Open Government Data Portal. :contentReference[oaicite:0]{index=0}  
-- This dataset is generated via AGMARKNET, which disseminates daily market price data (wholesale max, min, modal) for various commodities across mandis. :contentReference[oaicite:1]{index=1}  
-- Fields include: State, District, Market, Commodity, Variety, etc. :contentReference[oaicite:2]{index=2}  
-- The dataset is updated regularly (latest update shown as 01/10/2025). :contentReference[oaicite:3]{index=3}  
+This project uses **[“Variety-wise Daily Market Prices Data of Commodity”](https://www.data.gov.in/resource/variety-wise-daily-market-prices-data-commodity)** from the Indian Open Government Data Portal.  
+- This dataset is generated via **AGMARKNET**, which disseminates daily market price data (wholesale max, min, modal) for various commodities across mandis.  
+- Fields include: **State, District, Market, Commodity, Variety, etc.**  
+- The dataset is updated regularly (latest update shown as 01/10/2025).  
 
-By using this open data, the model can be retrained or extended when newer data becomes available.
 
 ---
 
