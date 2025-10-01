@@ -1,4 +1,4 @@
-## 🌾 APMC Market Advisor
+## 🌾 APMC Market Advisor – AI for Farmers
 
 **AI-powered farming insights with route optimization and demand forecasting**
 
@@ -34,24 +34,20 @@ By using this open data, the model can be retrained or extended when newer data 
 
 ---
 
+## 🎥 Working Video  
+*(Embed or link your demo video here, e.g. YouTube or Google Drive link)*
+---
+
 ## 🖼️ Screenshots
 
 ### 📍 Location & Forecasting  
 <img width="1349" height="610" alt="image" src="https://github.com/user-attachments/assets/b617a470-567a-4c18-ae4f-307f0e3e26fb" /> 
-
-### 📊 AI Market Insights  
-![AI Market Insights](./Screenshot%202025-10-01%20154215.png)
 
 ### 🏬 Best Markets Recommendations  
 <img width="761" height="616" alt="image" src="https://github.com/user-attachments/assets/f0f86c5b-e7c1-4d2b-a0c0-c80f9f76212f" /> 
 
 ### ⛽ Vehicle & Fuel Information  
 <img width="388" height="547" alt="image" src="https://github.com/user-attachments/assets/818f11dc-6877-4adc-8d2a-0097504c3fdc" />
-
----
-
-## 🎥 Working Video  
-*(Embed or link your demo video here, e.g. YouTube or Google Drive link)*
 
 ---
 
