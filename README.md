@@ -87,9 +87,3 @@ npm run dev
 
 **Virendra Badgotya**
 🔗 [GitHub](https://github.com/vir123-devf) | [LinkedIn](https://www.linkedin.com/in/virendra-badgotya-ai/)
-
-```
-
-If you like, I can create a **complete README in Markdown** ready to drop into your repo (with embedded video iframe, polished formatting, etc.). Do you want me to generate that final version for you?
-::contentReference[oaicite:4]{index=4}
-```
