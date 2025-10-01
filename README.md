@@ -35,7 +35,7 @@ By using this open data, the model can be retrained or extended when newer data 
 ---
 
 ## 🎥 Working Video  
-Link:- https://youtu.be/t5-2VpFv0Lg
+[▶️ Watch on YouTube](https://youtu.be/t5-2VpFv0Lg)
 ---
 
 ## 🖼️ Screenshots
